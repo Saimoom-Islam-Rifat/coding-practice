@@ -20,3 +20,5 @@ int main() {
 
     return 0;
 }
+// Print after recursive call → prints numbers in ascending order (1, 2, 3, …)
+// Print before recursive call → prints numbers in descending order (n, n-1, …, 1)
